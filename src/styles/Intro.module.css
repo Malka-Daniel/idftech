@@ -187,6 +187,10 @@
       height:auto;
       
     }
+    .containerbtn{
+      flex-direction: column;
+
+    }
     .text{
       font-size: 12px;
       width: auto;      height:auto;
@@ -197,6 +201,9 @@
     }
     .wrapper input{
       background: #D4D4D4;
+    }
+    .video{
+      width: 100%;
     }
 
   
