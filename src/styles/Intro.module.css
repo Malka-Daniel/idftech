@@ -192,6 +192,9 @@
       width: auto;      height:auto;
 
     }
+    .logo img{
+      width: 50%;
+    }
 
   
 
