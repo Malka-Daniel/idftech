@@ -114,6 +114,7 @@
     align-items: center;
     gap: 2em;
     padding: 2em;
+
  
  }
  .wrapper{
@@ -132,6 +133,7 @@
     justify-content: center;
     align-items: center;
     gap: 1em;
+    width: auto;
  }
  .textwrap input{
     width:15em;
