@@ -223,6 +223,10 @@
     height:auto;
 
   }
+  .text p strong {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+  }
   
   
   /* Add other styles as needed */
@@ -256,6 +260,14 @@
     }
     .logo img{
       width: 50%;
+    }
+    .logo{
+      margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
     }
     .wrapper input{
       background: #D4D4D4;
