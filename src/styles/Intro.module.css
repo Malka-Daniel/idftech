@@ -241,6 +241,8 @@
       width: auto;
       padding: 10px;
       height:auto;
+      display: flex;
+      flex-direction: row;
       
     }
     .containerbtn{
